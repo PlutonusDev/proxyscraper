@@ -1,0 +1,25 @@
+{
+  "name": "proxyscraper",
+  "version": "1.0.0",
+  "description": "Scrapes proxies from multiple sources and check them.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PlutonusDev/proxyscraper.git"
+  },
+  "keywords": [
+    "Proxy",
+    "Scraper",
+    "Node",
+    "JavaScript"
+  ],
+  "author": "PlutonusDev",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/PlutonusDev/proxyscraper/issues"
+  },
+  "homepage": "https://github.com/PlutonusDev/proxyscraper#readme"
+}
